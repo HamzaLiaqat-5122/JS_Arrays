@@ -1,0 +1,5 @@
+pop() deletes an element of array from end and returns it
+shift() deletes an element of array from start and returns it
+push() add an element in the array at the end
+unshift() add an element in the array at the beginning
+concat() used to join two or more arrays
